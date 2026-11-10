@@ -144,7 +144,7 @@
 
 - [algorithm-study](https://github.com/ureka-algo-study): 알고리즘 스터디
 - [LooK](https://github.com/2024capstone-LooK): 착장 이미지 기반 스타일 기록·분석 앱 (2024 캡스톤디자인, Flutter)
-- [RASA 챗봇](https://github.com/RASAchatbot): [한 줄 설명]
+- [RASA 챗봇](https://github.com/RASAchatbot): 대면조사가 어려운 취약 피해자에게서 양질의 진술을 확보하고 2차 피해 가능성을 최소화하기 위한 성폭력 피해자 조사면담용 AI 챗봇
 
 ---
 
