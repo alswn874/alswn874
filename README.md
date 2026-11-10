@@ -153,13 +153,5 @@
 | 📜 정보처리기사 | 한국산업인력공단 | 2026.09.11 |
 | 📜 SQLD | 한국데이터산업진흥원 | 2026.06.19 |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alswn874&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alswn874&layout=compact&hide_border=true&langs_count=6" height="160" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:2E7D32&height=100&section=footer" width="100%" />
