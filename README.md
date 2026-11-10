@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:6DB33F&height=200&section=header&text=정민주&fontSize=52&fontColor=ffffff&desc=끊임없이%20질문하고,%20끝까지%20해결하는%20개발자&descSize=18&descAlignY=68" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:6DB33F&height=240&section=header&text=정민주&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=끊임없이%20질문하고,%20끝까지%20해결하는%20개발자&descSize=18&descAlignY=58" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pretendard&size=20&pause=1200&color=2E7D32&center=true&vCenter=true&width=640&lines=Java%20%26%20Spring%20Boot%20Backend%20Developer;AI%20%E2%80%A2%20RAG%20Application%20Developer;%22왜%20이%20문제가%20발생했을까?%22%20를%20끝까지%20파고듭니다" />
+  <b>Java &amp; Spring Boot Backend Developer</b> · <b>AI Application Developer</b>
 </p>
 
 <p align="center">
@@ -56,13 +56,16 @@
   <tr>
     <td><b>AI / Data</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn&perline=8" /><br>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square">
+      <br>
       <img src="https://img.shields.io/badge/RAG-412991?style=flat-square">
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
       <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white">
       <img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
       <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white">
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square">
     </td>
   </tr>
   <tr>
